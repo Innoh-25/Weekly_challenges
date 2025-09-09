@@ -1,0 +1,12 @@
+SALES ANALYSIS SUMMARY
+=========================
+
+Total Revenue: $18,340.00
+Best-Selling Product: Mouse (37 units sold)
+Highest Sales Day: 2025-03-04 ($6,200.00)
+
+ADDITIONAL INSIGHTS
+====================
+Total Products Sold: 73 units
+Average Revenue per Sale: $1834.00
+Number of Unique Products: 4
